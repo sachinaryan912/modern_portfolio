@@ -1,6 +1,9 @@
 # Modern Portfolio
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![React Version](https://img.shields.io/badge/react-v18.2.0-blue.svg)](https://reactjs.org/)
+[![Vite Version](https://img.shields.io/badge/vite-v4.0.0-green.svg)](https://vitejs.dev/)
+
 
 A modern, responsive portfolio template built with HTML, CSS, and JavaScript, designed to showcase your work in a professional and visually appealing manner.
 
