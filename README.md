@@ -18,16 +18,10 @@ A modern, responsive portfolio template built with HTML, CSS, and JavaScript, de
 - [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Customization](#customization)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
-## Demo
-
-Check out the live demo of the portfolio [here](#).
 
 ## Features
 
@@ -47,19 +41,46 @@ Check out the live demo of the portfolio [here](#).
 
 ### Steps
 
-1. **Clone the repository:**
+**Clone the repository:**
    ```bash
    git clone https://github.com/sachinaryan912/modern_portfolio.git
+```
 
 ### Navigate to the project directory:
-
 ```bash
 cd modern_portfolio
+```
+### Install Modules:
+  ```bash
+  npm i --force
+```
+### For start
+  ```bash
+   npm run dev
+```
 
-<!-- For install module -->
-```bash
-npm i --force
+## Contributing
 
-<!-- For start -->
-```bash
- npm run dev
+Contributions are welcome! If you have any suggestions or improvements, please follow these steps to contribute:
+
+1. **Fork the repository.**
+
+2. **Create your feature branch:**
+   ```bash
+   git checkout -b feature/YourFeature
+
+   git commit -m 'Add YourFeature'
+   
+   git push origin feature/YourFeature
+
+
+### License
+###### This project is licensed under the MIT License. See the LICENSE file for more details.
+
+### Contact
+###### For any inquiries or feedback, please contact:
+  
+   - Name: Sachin Aryan
+   - Email: sachinsachu1998.ss@gmail.com
+   - GitHub: @sachinaryan912
+
