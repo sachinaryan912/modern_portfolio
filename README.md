@@ -16,6 +16,8 @@ A modern, responsive portfolio template built with HTML, CSS, and JavaScript, de
   <img src="https://github.com/user-attachments/assets/6fdec2e1-d1d5-4a52-87d4-68ae6deb5e73" alt="IMG_3305" style="width: 200px; margin: 10px;">
   <img src="https://github.com/user-attachments/assets/28247f27-f437-445f-a5b2-f70e574d407a" alt="IMG_3306" style="width: 200px; margin: 10px;">
 </div>
+<img width="1281" alt="Screenshot 2024-08-25 at 8 53 20 AM" src="https://github.com/user-attachments/assets/5bfa3f73-5927-4882-a42e-c641ac976859">
+
 
 
 ## Table of Contents
