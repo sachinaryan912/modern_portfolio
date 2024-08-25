@@ -3,6 +3,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![React Version](https://img.shields.io/badge/react-v18.2.0-blue.svg)](https://reactjs.org/)
 [![Vite Version](https://img.shields.io/badge/vite-v4.0.0-green.svg)](https://vitejs.dev/)
+[![Figma](https://img.shields.io/badge/Figma-Design-blue?style=flat-square&logo=figma)](https://www.figma.com/)
 
 
 A modern, responsive portfolio template built with HTML, CSS, and JavaScript, designed to showcase your work in a professional and visually appealing manner.
@@ -81,13 +82,26 @@ Contributions are welcome! If you have any suggestions or improvements, please f
    git push origin feature/YourFeature
 
 
-### License
-###### This project is licensed under the MIT License. See the LICENSE file for more details.
+
 
 ### Contact
-###### For any inquiries or feedback, please contact:
+ For any inquiries or feedback, please contact:
+  ## Contributors
+ ### <img width="28" alt="Screenshot 2024-08-25 at 8 50 43 AM" src="https://github.com/user-attachments/assets/8ec042fd-c52b-414d-8a06-166ec4ab34e3">
+  ![Contributor](https://img.shields.io/badge/role-contributor-green)
   
+  **GitHub:** [@Sauryadeep](https://github.com/Sauryadeep200)
+  
+  **Bio:** Sauryadeep is a full-stack developer specializing in React and Spring. He has been contributing to the project by improving React functionalities and implementing key features.
+  
+  ---
+  
+ ### <img width="28" alt="Screenshot 2024-08-25 at 8 50 43 AM" src="https://github.com/user-attachments/assets/13115ebe-dcd0-4667-8703-83e778796c2a">
+  ![Maintainer](https://img.shields.io/badge/role-maintainer-blue)
+
    - Name: Sachin Aryan
    - Email: sachinsachu1998.ss@gmail.com
    - GitHub: @sachinaryan912
 
+### License
+This project is licensed under the MIT License. See the LICENSE file for more details.
