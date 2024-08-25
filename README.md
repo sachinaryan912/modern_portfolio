@@ -8,6 +8,8 @@
 A modern, responsive portfolio template built with HTML, CSS, and JavaScript, designed to showcase your work in a professional and visually appealing manner.
 
 ## Figma Design
+<img width="1281" alt="Screenshot 2024-08-25 at 8 50 43 AM" src="https://github.com/user-attachments/assets/96835fce-ebf5-4e69-bfac-405e6d52aeb1">
+
 <div style="display: flex; flex-direction: row; justify-content: space-around; flex-wrap: wrap;">
   <img src="https://github.com/user-attachments/assets/b633a5fc-840a-4aba-ab53-05f7559542ba" alt="IMG_3303" style="width: 200px; margin: 10px;">
   <img src="https://github.com/user-attachments/assets/e13fd02c-4ccd-443f-b2db-66218416ed87" alt="IMG_3304" style="width: 200px; margin: 10px;">
